@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trungB83&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trungB83&theme=react&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trungB83&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=full)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=trungB83&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bui.quangtrung.351) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bùi-quang-trung-bb86a1253) 
